@@ -4,8 +4,8 @@
   "description": "",
   "keywords": [],
   
-    "homepage": "https://github.com/zulucoda/testproject",
-    "bugs": "https://github.com/zulucoda/testproject/issues",
+    "homepage": "https://github.com/zulucoda/node-webkit-test-project",
+    "bugs": "https://github.com/zulucoda/node-webkit-test-project/issues",
     "author": {
       "name": "Muzikayise Flynn Buthelezi",
       "email": "",
@@ -13,7 +13,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git://github.com/zulucoda/testproject.git"
+      "url": "git://github.com/zulucoda/node-webkit-test-project.git"
     },
   
   "dependencies": {},

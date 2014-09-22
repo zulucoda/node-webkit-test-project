@@ -1,6 +1,6 @@
-# TestProject
+# node-webkit-test-project
 
-**TestProject**  
+**node-webkit-test-project**
 *noun*  
 
 Simple node-webkit project, for demonstration purpose.
